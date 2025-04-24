@@ -74,9 +74,9 @@ Cancellation % calculating the cancellation percentage.
 Power BI Dashboards:
 
 <div align="center">
-  <img src="assets/main_dashboard" width="70%" height="auto" alt="Main Dashboard">
- <img src="assets/dashboard_tooltip1" width="70%" height="auto" alt="Dashboard Tooltip 1">
- <img src="assets/dashboard_tooltip2" width="70%" height="auto" alt="Dashboard Tooltip 2">
+  <img src="assets/main_dashboard.png" width="70%" height="auto" alt="Main Dashboard">
+ <img src="assets/dashboard_tooltip1.png" width="70%" height="auto" alt="Dashboard Tooltip 1">
+ <img src="assets/dashboard_tooltip2.png" width="70%" height="auto" alt="Dashboard Tooltip 2">
 </div>
 
 Key Findings from this dashboard:
