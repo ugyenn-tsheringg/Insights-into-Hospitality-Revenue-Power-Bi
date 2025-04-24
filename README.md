@@ -24,8 +24,8 @@ By employing sound data modeling practices, I can confidently generate insightfu
 ## Creating calculated measures:
 
 **ADR Calculate the ADR (Average Daily rate).** It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period.
-
-[ADR = DIVIDE( [Revenue], [Total Bookings],0)]
+ `quantity`
+\* `ADR = DIVIDE( [Revenue], [Total Bookings],0)`
 Realization % calculates the realization percentage. It is nothing but the successful “checked out” percentage of overall bookings happened.
 
 Realisation % = 1- ([Cancellation %]+[No Show rate %])
