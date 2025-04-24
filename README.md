@@ -72,12 +72,12 @@ Cancellation % calculating the cancellation percentage.
 \* `Cancellation % = DIVIDE([Total cancelled bookings],[Total Bookings])`
 
 Power BI Dashboards:
+
 <div align="center">
- 
-   (assets/main_dashboard.png)
-   (assets/dashboard_tooltip1.png)
-   (assets/dashboard_tooltip2.png)
-</div
+  <img src="assets/main_dashboard" width="70%" height="auto" alt="Main Dashboard">
+ <img src="assets/dashboard_tooltip1" width="70%" height="auto" alt="Dashboard Tooltip 1">
+ <img src="assets/dashboard_tooltip2" width="70%" height="auto" alt="Dashboard Tooltip 2">
+</div>
 
 Key Findings from this dashboard:
 The dashboard was utilized in an attempt to observe all the significant key metrics on a weekly basis. The metrics of Realisation, ADR, and RevPar remained constant, with only a slight fluctuation in occupancy ranging from 50% to 60% when filtering the data according to the week. Throughout the entirety of the period, both occupancy and cancellation rate remained in close proximity to the benchmark set by the industry.
