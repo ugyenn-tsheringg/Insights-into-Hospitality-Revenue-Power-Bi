@@ -20,7 +20,6 @@ In the context of this project, I have meticulously followed the Snowflake data 
 
 By employing sound data modeling practices, I can confidently generate insightful visualizations that empower data-driven decision-making.
 
-
 ## Creating calculated measures:
 
 **ADR Calculate the ADR (Average Daily rate).** It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period.
@@ -72,8 +71,13 @@ Cancellation % calculating the cancellation percentage.
 
 \* `Cancellation % = DIVIDE([Total cancelled bookings],[Total Bookings])`
 
-
 Power BI Dashboards:
+<div align="center">
+ 
+   (assets/main_dashboard.png)
+   (assets/dashboard_tooltip1.png)
+   (assets/dashboard_tooltip2.png)
+</div
 
 Key Findings from this dashboard:
 The dashboard was utilized in an attempt to observe all the significant key metrics on a weekly basis. The metrics of Realisation, ADR, and RevPar remained constant, with only a slight fluctuation in occupancy ranging from 50% to 60% when filtering the data according to the week. Throughout the entirety of the period, both occupancy and cancellation rate remained in close proximity to the benchmark set by the industry.
