@@ -1,4 +1,4 @@
-# AtliQ Hospitality Analysis - Power BI
+  # AtliQ Hospitality Analysis - Power BI
 
 This project was developed as part of the **Codebasics Resume Project Challenge (September)**. The goal was to create a comprehensive data analytics solution for **AtliQ Grands**, a fictional hospitality chain, to help them regain market share and revenue through data-driven insights.
 
@@ -21,7 +21,7 @@ The managing director aims to incorporate **Business and Data Intelligence** to 
 ## 🧩 Provided Mock-up Dashboard
 
 <div align="center"> 
-<img src="assets/mock_up_dashboard.png"> 
+<img src="mock_up_dashboard.png"> 
 </div>
 
 ---
