@@ -27,7 +27,9 @@ The managing director aims to incorporate **Business and Data Intelligence** to 
 
 ## 🧩 Provided Mock-up Dashboard
 
-*(Mock-up image or link can be added here)*
+<div align="center"> 
+<img src="assets/Data Model.png"> 
+</div>
 
 ---
 
