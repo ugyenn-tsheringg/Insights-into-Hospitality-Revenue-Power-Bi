@@ -71,9 +71,6 @@ The managing director aims to incorporate **Business and Data Intelligence** to 
   - Revenue Loss  
   - Total Stay
 
-- **Custom Visuals**:
-  - Built a calendar visual using a matrix table for enhanced temporal analysis.
-
 - **UI Design**:
   - Consistent color palette  
   - Bookmarks for navigation and filter clearing
@@ -106,10 +103,10 @@ The managing director aims to incorporate **Business and Data Intelligence** to 
 
 ### Technical Skills
 
-- Mastered DAX for complex KPI creation
-- Created custom calendar visuals using matrix tables ([Reference Article](#))
-- Implemented interactive features with bookmarks and selections ([YouTube Tutorial](#))
-- Applied consistent color palettes for professional UI
+- Learned DAX for complex KPI creation
+- Implemented interactive features with bookmarks and selections
+- Applied consistent conditional formatting to indicate the magnitude of value
+- Built dynamic tooltips on card visuals, unlocking different use cases during data analysis.
 
 ### Business Insights
 
