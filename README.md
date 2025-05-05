@@ -125,7 +125,7 @@ The managing director aims to incorporate **Business and Data Intelligence** to 
 2. Open the .pbix file in PowerBI Desktop.
 3. Ensure data files are correctly placed as per the data model.
 
-Acknowledgments
+## Acknowledgments
 - Codebasics for the Resume Project Challenge.
 - Stakeholders for providing the mock-up and metric list.
 - Online resources for dashboard enhancements.
