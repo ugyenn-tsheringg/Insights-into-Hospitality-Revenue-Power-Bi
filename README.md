@@ -21,7 +21,7 @@ The managing director aims to incorporate **Business and Data Intelligence** to 
 ## 🧩 Provided Mock-up Dashboard
 
 <div align="center"> 
-<img src="assets/Data Model.png"> 
+<img src="assets/mock_up_dashboard.png"> 
 </div>
 
 ---
@@ -85,30 +85,21 @@ The managing director aims to incorporate **Business and Data Intelligence** to 
 
 ## 💡 Key Insights
 
-- **Revenue Distribution**:  
-  Mumbai leads with ₹669M revenue (13.59% share), followed by Bangalore, Hyderabad, and Delhi.
+- **Revenue Distribution**: Mumbai leads with ₹669M revenue (13.59% share), followed by Bangalore, Hyderabad, and Delhi.
 
-- **Property Performance**:  
-  AtliQ Exotica tops revenue at ₹320M with 57% occupancy and a 24.4% cancellation rate. AtliQ Bay has the highest occupancy at 66%.
+- **Property Performance**: AtliQ Exotica tops revenue at ₹320M with 57% occupancy and a 24.4% cancellation rate. AtliQ Bay has the highest occupancy at 66%.
 
-- **Customer Focus**:  
-  Elite customers and RT2 room types contribute significantly to revenue.
+- **Customer Focus**: Elite customers and RT2 room types contribute significantly to revenue.
 
-- **Platform Partnerships**:  
-  Stronger relationships with **Make Your Trip** and **Log Trip** recommended.
+- **Platform Partnerships**: Stronger relationships with **Make Your Trip** and **Log Trip** recommended.
 
-- **Temporal Trends**:  
-  Revenue peaks in Week 24 (₹139.6M), but drops by 28.17% in the final 4 days of the month. June shows the highest cancellation rate (25.09%).
+- **Temporal Trends**: Revenue peaks in Week 24 (₹139.6M), but drops by 28.17% in the final 4 days of the month. June shows the highest cancellation rate (25.09%).
 
-- **Rating Insights**:  
-  AtliQ Blu scores highest in ratings — 72.54% higher than AtliQ Seasons.
+- **Rating Insights**: AtliQ Blu scores highest in ratings — 72.54% higher than AtliQ Seasons.
 
-- **Cancellation Impact**:  
-  Revenue loss due to cancellations is ~₹298M. Elite room types had the highest cancellation rate.
+- **Cancellation Impact**: Revenue loss due to cancellations is ~₹298M. Elite room types had the highest cancellation rate.
 
-- **City Performance**:  
-  Delhi leads in occupancy and ratings, followed by Hyderabad, Mumbai, and Bangalore.
-
+- **City Performance**: Delhi leads in occupancy and ratings, followed by Hyderabad, Mumbai, and Bangalore.
 ---
 
 ## 📚 Learnings
