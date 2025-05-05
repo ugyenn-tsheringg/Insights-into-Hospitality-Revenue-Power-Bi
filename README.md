@@ -2,6 +2,8 @@
 
 This project was developed as part of the **Codebasics Resume Project Challenge (September)**. The goal was to create a comprehensive data analytics solution for **AtliQ Grands**, a fictional hospitality chain, to help them regain market share and revenue through data-driven insights.
 
+Link to the challenge [Link to the challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/4) 
+
 ## 📌 Problem Statement
 
 AtliQ Grands owns multiple five-star hotels across India and has been in the hospitality industry for 20 years. Due to strategic moves by competitors and ineffective decision-making, they are losing market share and revenue in the luxury/business hotel category.
